@@ -37,7 +37,7 @@
     "body-parser": "^1.19.0",
     "cls-hooked": "^4.2.2",
     "express": "^4.17.1",
-    "express-promisify-router": "^1.0.4",
+    "express-promisify-router": "^1.0.6",
     "http-errors": "^1.8.0",
     "pino": "^6.7.0"
   },
